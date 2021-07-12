@@ -1,0 +1,14 @@
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\bin\Debug\otomasyonSistemi.exe.config
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\bin\Debug\otomasyonSistemi.exe
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\bin\Debug\otomasyonSistemi.pdb
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\obj\Debug\otomasyonSistemi.csprojAssemblyReference.cache
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\obj\Debug\otomasyonSistemi.Giris.resources
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\obj\Debug\otomasyonSistemi.Properties.Resources.resources
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\obj\Debug\otomasyonSistemi.csproj.GenerateResource.cache
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\obj\Debug\otomasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\obj\Debug\otomasyonSistemi.exe
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\obj\Debug\otomasyonSistemi.pdb
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\obj\Debug\otomasyonSistemi.menu.resources
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\obj\Debug\otomasyonSistemi.frmMasa.resources
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\obj\Debug\otomasyonSistemi.frmPaketServis.resources
+C:\Users\doggu\source\repos\otomasyonSistemi\otomasyonSistemi\obj\Debug\otomasyonSistemi.frmBill.resources
